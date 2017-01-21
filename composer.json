@@ -1,0 +1,23 @@
+{
+  "name": "sonnenglas/amazon-fba-fulfillment-center-list",
+  "description": "List of Amazon fulfillment centers around the world available as JSON and PHP array",
+  "license": "MIT",
+  "keywords": ["fba","amazon","fulfillment","mws"],
+  "authors": [
+    {
+      "name": "Przemek Peron",
+      "email": "przemek@redkorn.pl"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sonnenglas\\AmazonFulfillmentCenters\\": "src"
+    }
+  }
+}
