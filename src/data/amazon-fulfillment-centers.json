@@ -200,7 +200,11 @@
     "state":""
   },
   "LCY1":{
-    "country":"UK",
+    "country":"GB",
+    "state":""
+  },
+  "LCY2":{
+    "country":"GB",
     "state":""
   },
   "LEJ1":{
@@ -1968,9 +1972,9 @@
     "state":"GA"
   },
   "VUKH":{
-  "country":"US",
-  "state":"TX"
-},
+    "country":"US",
+    "state":"TX"
+  },
   "VUMC":{
     "country":"US",
     "state":"IN"
