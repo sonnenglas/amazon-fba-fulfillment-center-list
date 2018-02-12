@@ -1,8 +1,11 @@
 <?php
 
+require __DIR__.'/../vendor/autoload.php';
+
+use PHPUnit\Framework\TestCase;
 use Sonnenglas\AmazonFulfillmentCenters\AmazonFulfillmentCenters;
 
-class AmazonFulfillmentCentersTest extends PHPUnit_Framework_TestCase
+class AmazonFulfillmentCentersTest extends TestCase
 {
 
     public function testGetAll()
