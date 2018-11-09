@@ -716,6 +716,10 @@
     "country":"US",
     "state":"TN"
   },
+  "CLE2":{
+    "country":"US",
+    "state":"OH"
+  },
   "CLE5":{
     "country":"US",
     "state":"OH"
@@ -995,6 +999,10 @@
   "EWR9":{
     "country":"US",
     "state":"NJ"
+  },
+  "FAT1":{
+    "country":"US",
+    "state":"CA"
   },
   "FSE2":{
     "country":"US",
@@ -1652,10 +1660,6 @@
   "SMF5":{
     "country":"US",
     "state":"CA"
-  },
-  "SLT7":{
-    "country":"US",
-    "state":"IL"
   },
   "SNA4":{
     "country":"US",
