@@ -171,6 +171,14 @@
     "country":"JP",
     "state":""
   },
+  "HND4":{
+    "country":"JP",
+    "state":""
+  },
+  "HND6":{
+    "country":"JP",
+    "state":""
+  },
   "HND8":{
     "country":"JP",
     "state":""
@@ -192,6 +200,14 @@
     "state":""
   },
   "KIX2":{
+    "country":"JP",
+    "state":""
+  },
+  "KIX3":{
+    "country":"JP",
+    "state":""
+  },
+  "KIX4":{
     "country":"JP",
     "state":""
   },
@@ -284,6 +300,10 @@
     "country":"DE",
     "state":""
   },
+  "MXP3":{
+    "country":"IT",
+    "state":""
+  },
   "MXP5":{
     "country":"IT",
     "state":""
@@ -309,6 +329,10 @@
     "state":""
   },
   "NRT5":{
+    "country":"JP",
+    "state":""
+  },
+  "OKJ1":{
     "country":"JP",
     "state":""
   },
@@ -394,6 +418,10 @@
   },
   "TSN2":{
     "country":"CN",
+    "state":""
+  },
+  "UKB1":{
+    "country":"JP",
     "state":""
   },
   "WR01":{
@@ -485,6 +513,10 @@
     "state":""
   },
   "YVR3":{
+    "country":"CA",
+    "state":""
+  },
+  "YYC1":{
     "country":"CA",
     "state":""
   },
@@ -807,6 +839,10 @@
   "DET1":{
     "country":"US",
     "state":"MI"
+  },
+  "DCA1":{
+    "country":"US",
+    "state":"MD"
   },
   "DCH1":{
     "country":"US",
@@ -1317,6 +1353,10 @@
     "state":"GA"
   },
   "MGE3":{
+    "country":"US",
+    "state":"GA"
+  },
+  "MGE7":{
     "country":"US",
     "state":"GA"
   },
