@@ -352,6 +352,10 @@
     "country":"FR",
     "state":""
   },
+  "ORY4":{
+    "country":"FR",
+    "state":""
+  },
   "P0Z1":{
     "country":"PL",
     "state":""
@@ -801,6 +805,10 @@
     "state":"NC"
   },
   "CLT3":{
+    "country":"US",
+    "state":"NC"
+  },
+  "CLT4":{
     "country":"US",
     "state":"NC"
   },
@@ -1464,6 +1472,10 @@
     "country":"US",
     "state":"CA"
   },
+  "OKC1":{
+    "country":"US",
+    "state":"OK"
+  },
   "OKC5":{
     "country":"US",
     "state":"OK"
@@ -1776,6 +1788,10 @@
   "STL7":{
     "country":"US",
     "state":"IL"
+  },
+  "STL8":{
+    "country":"US",
+    "state":"MO"
   },
   "SUOC":{
     "country":"US",
