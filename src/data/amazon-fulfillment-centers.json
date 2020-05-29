@@ -47,6 +47,10 @@
     "country":"FR",
     "state":""
   },
+  "BWU1":{
+    "country":"AU",
+    "state":""
+  },
   "CAN1":{
     "country":"CN",
     "state":""
@@ -303,7 +307,10 @@
     "country":"GB",
     "state":""
   },
-
+  "MEL1":{
+    "country":"AU",
+    "state":""
+  },
   "MEX1":{
     "country":"MX",
     "state":""
@@ -378,6 +385,10 @@
   },
   "PEK5":{
     "country":"CN",
+    "state":""
+  },
+  "PER2":{
+    "country":"AU",
     "state":""
   },
   "POZ1":{
@@ -560,11 +571,23 @@
     "country":"GB",
     "state":""
   },
+  "YOW1":{
+    "country":"CA",
+    "state":""
+  },
+  "YEG1":{
+  "country":"CA",
+  "state":""
+},
   "YVR2":{
     "country":"CA",
     "state":""
   },
   "YVR3":{
+    "country":"CA",
+    "state":""
+  },
+  "YVR4":{
     "country":"CA",
     "state":""
   },
@@ -593,6 +616,10 @@
     "state":""
   },
   "YYZ6":{
+    "country":"CA",
+    "state":""
+  },
+  "YYZ7":{
     "country":"CA",
     "state":""
   },
