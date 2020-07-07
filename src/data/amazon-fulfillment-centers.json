@@ -227,6 +227,10 @@
     "country":"JP",
     "state":""
   },
+  "KIX5":{
+    "country":"JP",
+    "state":""
+  },
   "KTW1":{
     "country":"PL",
     "state":""
@@ -321,6 +325,10 @@
   },
   "MHG1":{
     "country":"DE",
+    "state":""
+  },
+  "MME1":{
+    "country":"GB",
     "state":""
   },
   "MRS1":{
