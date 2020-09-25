@@ -335,6 +335,10 @@
     "country":"GB",
     "state":""
   },
+  "MME2":{
+    "country":"GB",
+    "state":""
+  },
   "MRS1":{
     "country":"FR",
     "state":""
@@ -480,6 +484,10 @@
     "state":""
   },
   "TYO1":{
+    "country":"JP",
+    "state":""
+  },
+  "TYO2":{
     "country":"JP",
     "state":""
   },
