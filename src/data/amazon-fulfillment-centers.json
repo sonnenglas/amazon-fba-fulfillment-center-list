@@ -27,6 +27,10 @@
     "country":"GB",
     "state":""
   },
+  "BLQ1":{
+    "country":"IT",
+    "state":""
+  },
   "BLR5":{
     "country":"IN",
     "state":""
@@ -465,6 +469,10 @@
   },
   "STR1":{
     "country":"DE",
+    "state":""
+  },
+  "SVQ1":{
+    "country":"ES",
     "state":""
   },
   "SZZ1":{
