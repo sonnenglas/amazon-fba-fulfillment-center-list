@@ -4,7 +4,7 @@ namespace Sonnenglas\AmazonFulfillmentCenters;
 
 /**
  * Database of all existing Amazon fulfillment centers
- * Last updated: 18.12.2016
+ * Last updated: 2020-10-02
  */
 class AmazonFulfillmentCenters
 {
@@ -15,7 +15,12 @@ class AmazonFulfillmentCenters
     /**
      * Get list of all amazon fulfillment centers
      *
-     * @return array
+     * @return array An array mapping fulfillmentcenter code to an
+     *               `array(
+     *                   'country' => string, // ISO3166-alpha-2 code
+     *                   'state' => string, // two-letter state code, only for USA
+     *               )`
+     * @psalm-return array<string,array{country:string,state:string}>
      */
     public function getAll()
     {
@@ -29,8 +34,9 @@ class AmazonFulfillmentCenters
     /**
      * Get information about fulfillment center by its code or return false if it doesn't exist.
      *
-     * @param $code
-     * @return bool
+     * @param string $code
+     * @return array|false
+     * @psalm-return false|array{country:string,state:string}
      */
     public function getByCode($code)
     {
