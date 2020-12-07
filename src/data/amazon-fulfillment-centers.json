@@ -499,7 +499,15 @@
     "country":"JP",
     "state":""
   },
+  "TPF4":{
+    "country":"JP",
+    "state":""
+  },
   "TPF6":{
+    "country":"JP",
+    "state":""
+  },
+  "TPZ2":{
     "country":"JP",
     "state":""
   },
@@ -516,6 +524,10 @@
     "state":""
   },
   "TYO2":{
+    "country":"JP",
+    "state":""
+  },
+  "TYO6":{
     "country":"JP",
     "state":""
   },
@@ -715,6 +727,10 @@
     "country":"US",
     "state":"NJ"
   },
+  "AKC1":{
+    "country":"US",
+    "state":"OH "
+  },
   "ALT9":{
     "country":"US",
     "state":"GA"
@@ -822,6 +838,10 @@
   "BNA5":{
     "country":"US",
     "state":"TN"
+  },
+  "BOI2":{
+    "country":"US",
+    "state":"ID"
   },
   "BOS1":{
     "country":"US",
@@ -1642,6 +1662,10 @@
   "PCA2":{
     "country":"US",
     "state":"CA"
+  },
+  "PCW1":{
+    "country":"US",
+    "state":"OH"
   },
   "PDX5":{
     "country":"US",
