@@ -255,6 +255,10 @@
     "country":"GB",
     "state":""
   },
+  "LBA3":{
+    "country":"GB",
+    "state":""
+  },
   "LCJ1":{
     "country":"PL",
     "state":""
@@ -300,6 +304,10 @@
     "state":""
   },
   "LTN4":{
+    "country":"GB",
+    "state":""
+  },
+  "LTN7":{
     "country":"GB",
     "state":""
   },
@@ -504,6 +512,10 @@
     "state":""
   },
   "TPF6":{
+    "country":"JP",
+    "state":""
+  },
+  "TPZ1":{
     "country":"JP",
     "state":""
   },
@@ -987,6 +999,10 @@
     "country":"US",
     "state":"KY"
   },
+  "DAL3":{
+    "country":"US",
+    "state":"TX"
+  },
   "DAL6":{
     "country":"US",
     "state":"TX"
@@ -1246,6 +1262,10 @@
   "FTW8":{
     "country":"US",
     "state":"TX"
+  },
+  "GEG1":{
+    "country":"US",
+    "state":"WA"
   },
   "GRR1":{
     "country":"US",
