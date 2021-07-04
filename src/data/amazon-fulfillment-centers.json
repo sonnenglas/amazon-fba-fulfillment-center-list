@@ -519,11 +519,19 @@
     "country":"JP",
     "state":""
   },
+  "TPX1":{
+    "country":"JP",
+    "state":""
+  },
   "TPZ1":{
     "country":"JP",
     "state":""
   },
   "TPZ2":{
+    "country":"JP",
+    "state":""
+  },
+  "TPZ3":{
     "country":"JP",
     "state":""
   },
@@ -1600,6 +1608,10 @@
     "state":"KS"
   },
   "MKE1":{
+    "country":"US",
+    "state":"WA"
+  },
+  "MKE2":{
     "country":"US",
     "state":"WA"
   },
