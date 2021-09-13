@@ -147,6 +147,10 @@
     "country":"GB",
     "state":""
   },
+  "ETZ2":{
+    "country":"FR",
+    "state":""
+  },
   "EUK5":{
     "country":"GB",
     "state":""
@@ -440,6 +444,10 @@
     "state":""
   },
   "POZ1":{
+    "country":"PL",
+    "state":""
+  },
+  "POZ2":{
     "country":"PL",
     "state":""
   },
@@ -1298,6 +1306,10 @@
   "GSP1":{
     "country":"US",
     "state":"SC"
+  },
+  "GYR1":{
+    "country":"US",
+    "state":"AZ"
   },
   "HCA3":{
     "country":"US",
