@@ -15,6 +15,10 @@
     "country":"DE",
     "state":""
   },
+  "BGY1":{
+    "country":"IT",
+    "state":""
+  },
   "BHX1":{
     "country":"GB",
     "state":""
@@ -283,6 +287,10 @@
     "country":"GB",
     "state":""
   },
+  "LCY3":{
+    "country":"GB",
+    "state":""
+  },
   "LEJ1":{
     "country":"DE",
     "state":""
@@ -292,6 +300,14 @@
     "state":""
   },
   "LEJ3":{
+    "country":"DE",
+    "state":""
+  },
+  "LEJ4":{
+    "country":"DE",
+    "state":""
+  },
+  "LEJ5":{
     "country":"DE",
     "state":""
   },
@@ -332,6 +348,10 @@
     "state":""
   },
   "MAD6":{
+    "country":"ES",
+    "state":""
+  },
+  "MAD7":{
     "country":"ES",
     "state":""
   },
@@ -467,6 +487,10 @@
     "country":"CA",
     "state":""
   },
+  "QCB1":{
+    "country":"JP",
+    "state":""
+  },
   "RMU1":{
     "country":"ES",
     "state":""
@@ -564,6 +588,14 @@
     "state":""
   },
   "TYO2":{
+    "country":"JP",
+    "state":""
+  },
+  "TYO3":{
+    "country":"JP",
+    "state":""
+  },
+  "TYO4":{
     "country":"JP",
     "state":""
   },
