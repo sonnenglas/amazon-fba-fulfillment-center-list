@@ -899,6 +899,10 @@
     "country":"US",
     "state":"CA"
   },
+  "BHM1":{
+    "country":"US",
+    "state":"AL"
+  },
   "BNA1":{
     "country":"US",
     "state":"TN"
@@ -1888,6 +1892,10 @@
     "country":"US",
     "state":"WA"
   },
+  "RDG1":{
+    "country":"US",
+    "state":"PA"
+  },
   "RDU1":{
     "country":"US",
     "state":"NC"
@@ -1927,6 +1935,10 @@
   "RNO4":{
     "country":"US",
     "state":"NV"
+  },
+  "SAN3":{
+    "country":"US",
+    "state":"CA"
   },
   "SAT1":{
     "country":"US",
