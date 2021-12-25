@@ -415,6 +415,10 @@
     "country":"IT",
     "state":""
   },
+  "NCL1":{
+    "country":"GB",
+    "state":""
+  },
   "NG02":{
     "country":"JP",
     "state":""
@@ -803,6 +807,10 @@
     "country":"US",
     "state":"NJ"
   },
+  "ABQ1":{
+    "country":"US",
+    "state":"NM"
+  },
   "ACY1":{
     "country":"US",
     "state":"NJ"
@@ -810,6 +818,10 @@
   "ACY5":{
     "country":"US",
     "state":"NJ"
+  },
+  "AGS2":{
+    "country":"US",
+    "state":"GA"
   },
   "AKC1":{
     "country":"US",
