@@ -15,7 +15,7 @@ class AmazonFulfillmentCenters
     /**
      * Get list of all amazon fulfillment centers
      *
-     * @return array An array mapping fulfillmentcenter code to an
+     * @return array An array mapping fulfillment center code to an
      *               `array(
      *                   'country' => string, // ISO3166-alpha-2 code
      *                   'state' => string, // two-letter state code, only for USA
