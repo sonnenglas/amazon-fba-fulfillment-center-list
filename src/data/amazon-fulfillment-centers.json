@@ -3071,6 +3071,10 @@
     "country": "US",
     "state": "CA"
   },
+  "PSR2": {
+    "country": "IT",
+    "state": ""
+  },
   "PTX1": {
     "country": "US",
     "state": "TX"
@@ -3370,6 +3374,10 @@
   "SCK6": {
     "country": "US",
     "state": "CA"
+  },
+  "SCN2": {
+    "country": "DE",
+    "state": ""
   },
   "SCO1": {
     "country": "US",
