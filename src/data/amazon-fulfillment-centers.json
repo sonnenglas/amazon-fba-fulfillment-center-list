@@ -199,6 +199,10 @@
     "country": "ES",
     "state": ""
   },
+  "BCN4": {
+    "country": "ES",
+    "state": ""
+  },
   "BDL1": {
     "country": "US",
     "state": "CT"
@@ -389,6 +393,10 @@
   },
   "BRE4": {
     "country": "DE",
+    "state": ""
+  },
+  "BRQ2": {
+    "country": "CZ",
     "state": ""
   },
   "BRS1": {
