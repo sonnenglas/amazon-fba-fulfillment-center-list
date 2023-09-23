@@ -5899,6 +5899,14 @@
     "country": "US",
     "state": "VA"
   },
+  "XLX6": {
+    "country": "US",
+    "state": "NC"
+  },
+  "XLX7": {
+    "country": "US",
+    "state": "CA"
+  },
   "XMN1": {
     "country": "CN",
     "state": ""
@@ -6047,7 +6055,15 @@
     "country": "CA",
     "state": ""
   },
+  "YHM1": {
+    "country": "CA",
+    "state": ""
+  },
   "YOW1": {
+    "country": "CA",
+    "state": ""
+  },
+  "YOW3": {
     "country": "CA",
     "state": ""
   },
