@@ -77,7 +77,7 @@
   },
   "AKC1": {
     "country": "US",
-    "state": "OH "
+    "state": "OH"
   },
   "AKR1": {
     "country": "US",
@@ -343,10 +343,6 @@
     "country": "UK",
     "state": ""
   },
-  "Bill-to Address": {
-    "country": "US",
-    "state": "WA"
-  },
   "BLQ1": {
     "country": "IT",
     "state": ""
@@ -462,6 +458,10 @@
   "BRS2": {
     "country": "GB",
     "state": ""
+  },
+  "BTR1": {
+    "country": "US",
+    "state": "LA"
   },
   "BUF5": {
     "country": "US",
@@ -831,6 +831,10 @@
     "country": "US",
     "state": "MI"
   },
+  "DET6": {
+    "country": "US",
+    "state": "MI"
+  },
   "DET7": {
     "country": "US",
     "state": "MI"
@@ -1183,6 +1187,10 @@
     "country": "DE",
     "state": ""
   },
+  "FSD1": {
+    "country": "US",
+    "state": "SD"
+  },
   "FSE2": {
     "country": "US",
     "state": "WA"
@@ -1232,6 +1240,10 @@
     "state": "TX"
   },
   "FWA4": {
+    "country": "US",
+    "state": "IN"
+  },
+  "FWA6": {
     "country": "US",
     "state": "IN"
   },
@@ -1978,6 +1990,10 @@
   "IWA2": {
     "country": "US",
     "state": "WA"
+  },
+  "JAN1": {
+    "country": "US",
+    "state": "MS"
   },
   "JAX1": {
     "country": "US",
@@ -3987,6 +4003,10 @@
     "country": "MX",
     "state": ""
   },
+  "SMO1": {
+    "country": "US",
+    "state": "MO"
+  },
   "SMSA": {
     "country": "MX",
     "state": ""
@@ -4894,6 +4914,10 @@
   "TJA2": {
     "country": "US",
     "state": "GA"
+  },
+  "TLH2": {
+    "country": "US",
+    "state": "FL"
   },
   "TMA3": {
     "country": "US",
@@ -6671,7 +6695,23 @@
     "country": "CA",
     "state": ""
   },
+  "YEG2": {
+    "country": "CA",
+    "state": "AB"
+  },
+  "YHM1": {
+    "country": "CA",
+    "state": "ON"
+  },
+  "YOO1": {
+    "country": "CA",
+    "state": "ON"
+  },
   "YOW1": {
+    "country": "CA",
+    "state": "ON"
+  },
+  "YOW3": {
     "country": "CA",
     "state": ""
   },
@@ -6686,6 +6726,14 @@
   "YVR4": {
     "country": "CA",
     "state": ""
+  },
+  "YXX1": {
+    "country": "CA",
+    "state": "BC"
+  },
+  "YXX2": {
+    "country": "CA",
+    "state": "BC"
   },
   "YYC1": {
     "country": "CA",
