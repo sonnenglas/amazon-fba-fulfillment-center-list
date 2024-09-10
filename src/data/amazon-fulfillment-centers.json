@@ -82,7 +82,7 @@
   "AKR1": {
     "country": "US",
     "state": "OH"
-  },
+  },  
   "ALB1": {
     "country": "US",
     "state": "NY"
@@ -3995,6 +3995,10 @@
     "country": "US",
     "state": "MN"
   },
+  "SMO1": {
+    "country": "US",
+    "state": "MO"
+  },
   "SMO2": {
     "country": "US",
     "state": "IL"
@@ -6713,7 +6717,7 @@
   },
   "YOW3": {
     "country": "CA",
-    "state": ""
+    "state": "ON"
   },
   "YVR2": {
     "country": "CA",
