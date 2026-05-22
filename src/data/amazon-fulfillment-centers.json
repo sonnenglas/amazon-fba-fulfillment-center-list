@@ -119,6 +119,10 @@
     "country": "US",
     "state": "GA"
   },
+  "ATL5": {
+    "country": "US",
+    "state": "GA"
+  },
   "ATL6": {
     "country": "US",
     "state": "GA"
@@ -180,6 +184,10 @@
     "state": "WA"
   },
   "AZA4": {
+    "country": "US",
+    "state": "AZ"
+  },
+  "AZA5": {
     "country": "US",
     "state": "AZ"
   },
@@ -579,6 +587,10 @@
     "country": "US",
     "state": "IL"
   },
+  "CHI4": {
+    "country": "US",
+    "state": "IL"
+  },
   "CHO1": {
     "country": "US",
     "state": "VA"
@@ -735,7 +747,15 @@
     "country": "US",
     "state": "TX"
   },
+  "DAL9": {
+    "country": "US",
+    "state": "TX"
+  },
   "DAU1": {
+    "country": "US",
+    "state": "TX"
+  },
+  "DAU2": {
     "country": "US",
     "state": "TX"
   },
@@ -1050,6 +1070,10 @@
   "DUS4": {
     "country": "DE",
     "state": ""
+  },
+  "DUT1": {
+    "country": "US",
+    "state": "UT"
   },
   "DWF9": {
     "country": "US",
@@ -2920,6 +2944,10 @@
     "state": "MN"
   },
   "MSP6": {
+    "country": "US",
+    "state": "MN"
+  },
+  "MSP9": {
     "country": "US",
     "state": "MN"
   },
@@ -6174,6 +6202,10 @@
   "VUWR": {
     "country": "US",
     "state": "CA"
+  },
+  "WAC1": {
+    "country": "US",
+    "state": "TX"
   },
   "WR01": {
     "country": "PL",
