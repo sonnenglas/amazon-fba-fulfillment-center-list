@@ -1,4 +1,24 @@
 {
+  "DSA6": {
+    "country": "GB",
+    "state": ""
+  },
+  "EMA4": {
+    "country": "GB",
+    "state": ""
+  },
+  "LBA5": {
+    "country": "GB",
+    "state": ""
+  },
+  "NCL2": {
+    "country": "GB",
+    "state": ""
+  },
+  "OVD1": {
+    "country": "ES",
+    "state": ""
+  },
   "0RY1": {
     "country": "FR",
     "state": ""
@@ -82,7 +102,7 @@
   "AKR1": {
     "country": "US",
     "state": "OH"
-  },  
+  },
   "ALB1": {
     "country": "US",
     "state": "NY"
